@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "Lol",
+    "age": "21",
+    "hobbies": ["lol", "lol", "lol"]
+  },
+  {
+    "id": 2,
+    "username": "Lol2",
+    "age": "212",
+    "hobbies": ["lol", "lol", "lol"]
+  },
+  {
+    "id": 3,
+    "username": "Lol3",
+    "age": "213",
+    "hobbies": ["lol", "lol", "lol"]
+  }
+]
